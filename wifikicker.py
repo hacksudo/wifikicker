@@ -84,7 +84,7 @@ def runDebug():
         print ("Failed to print defaultGatewayIP...")
     try:
         print ("Current hostslist array: ")
-        print hostsList
+        print (hosts List) 
     except:
         print ("Failed to print hostsList array...")
     print ("DEBUG FINISHED.\nShutting down...")
